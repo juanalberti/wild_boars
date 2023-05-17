@@ -1,0 +1,13 @@
+Month,Year,Condition,Treatment,Plot,Acmella,Agrostis,Ambrosia,Anagalis,Botriochloa laguroides,Briza,Bromus,Carduus,Carex grande,Centaurium,Chaetotropis,Ciclospermun,Conyza bonariensis,Cortaderia,Cyperus reflexus,Dexeucia,Distichlis,Eliocaris,Eringium,Festuca,Gamochaeta,Hidrocotile,Hordeum,Hormiguita,Isolepis,Jarava,Juncus acutus,Juncus imbricatus,Juncus microcephalus,Lythrum,Margarita,Medicago lopulina,Melilotus,Mentha,Phyla ,Picris,Pluchea sagitalis,Poa,Pseudognaphalium,Rumex crispus,Salicornia,Sonchus ,Spartina,Stenotaphrum,Verbena,Veronica peregrina,palito,Disturbio
+March,2022,with disturb,Control,1,1,,1,,,,,,,1,,1,,1,1,,1,,,1,,1,,,1,,,1,1,,,1,,,1,1,,,,1,,,1,,,1,,65
+March,2022,with disturb,Control,2,,1,1,1,1,,,,1,,,,,,1,1,,,,1,,1,,1,,,,1,,,,1,,,1,1,,,,,,,1,,1,1,,80
+March,2022,with disturb,Control,3,1,1,1,,1,,,,,,,1,,1,1,1,,1,,1,1,1,,,1,,,1,,,,1,,1,,,,,1,,,,1,1,,,,90
+March,2022,with disturb,Control,4,1,1,,,1,,,1,,,,,,,1,1,,,,1,,1,,1,1,,,1,1,,,1,,,1,,,,,,,,1,,,1,,50
+March,2022,with disturb,Control,5,,,1,,1,,,,1,1,,,,,,1,,,,1,,,,,1,,,1,,,,1,,,1,,,,,,,,1,,,1,,40
+March,2022,with disturb,Control,6,1,1,1,,1,,,1,,1,,1,,,,,,,,1,,,,,1,,,,,,,,,,,,,,,,1,,1,,,1,,25
+March,2022,without disturb,Exclosure,1,1,,,,,,,,,,,,,,1,1,,,1,1,,1,,,,,,,1,,1,,,,1,,,,,1,,,1,,1,,,
+March,2022,without disturb,Exclosure,2,,1,,,1,,,,,,,,,,1,1,,,,1,,1,,,,,,1,,,1,,,,,,,,,,,,1,,,,,
+March,2022,without disturb,Exclosure,3,1,,,1,1,,,,,1,,,,1,,,,,,1,,1,,,1,,,1,1,,,,,,1,,,,,,,,1,,,,,
+March,2022,without disturb,Exclosure,4,1,,,,1,,,,,,,,,,1,,,,,1,,1,,,,,1,,1,,,,,,,,,,,,,,1,1,,,,
+March,2022,without disturb,Exclosure,5,,,,,1,,,,,1,,,,,,,,,,1,,1,,,1,,,1,,,1,,,,1,,,,,,,,1,,,1,,
+March,2022,without disturb,Exclosure,6,1,1,,,,,,,,1,,,,,,,,,,1,,1,,,,,,1,,,1,1,,,,1,,,,,1,1,1,,,1,,
