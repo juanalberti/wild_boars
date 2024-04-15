@@ -1,13 +1,13 @@
-Month,Year,Condition,Plot,Acmella,Ambrosia,Anagallis,Apium,Physalis viscosa,Cardo,Carex,Chaetogama,Ciclospermun,Conyza,Cortadera,Curry,Deteaux,Distichlys,Duraznillo,Gamochaeta,Hordeum,Hunco,Melilotus,Palito,Physalis,Picris,Pinito,Plantago,Pluchea,Pseudo,Salicornia,Senecio,Sonchus,Spartina,Dedos,Disturbio (%)
-March,2022,with disturb,1,,1,,,,,,,,,1,,,1,,,,,,1,,,1,,,,,1,,,,20
-March,2022,with disturb,2,,1,,,,,,,,1,1,1,,,,,,,,1,,,,1,1,1,1,1,,1,1,40
-March,2022,with disturb,3,,1,,,,,1,,,,,,,1,,,,,,1,,,1,,,,1,,,1,,50
-March,2022,with disturb,4,,,,,1,1,,,1,1,,,,1,,1,1,,1,1,,,1,1,,1,1,,,1,,100
-March,2022,with disturb,5,,,,,,,,1,,1,1,,,1,,,,,1,1,,,1,,,,1,1,1,1,,70
-March,2022,with disturb,6,1,,1,,,1,,1,,,1,,,1,1,,1,,,1,1,1,,,,1,1,1,1,1,,90
-March,2022,without disturb,1,,,,1,,,,,,,1,,,,,,,,,1,,,,,,,,,,1,,0
-March,2022,without disturb,2,,,,,,,,,,,,,,1,,,,1,,1,,,,,,,1,,,1,,0
-March,2022,without disturb,3,,,,,,,,,,,1,,,,,,,,,1,,,,,,,1,,,1,,0
-March,2022,without disturb,4,,,,,,,,,,,,,,1,,,,,,,,,,,,,1,,,1,,0
-March,2022,without disturb,5,,,,,,,,,,,1,,,1,,,,1,,,,,,,,,1,,,1,,0
-March,2022,without disturb,6,,,,,,,,,,,1,,1,1,,1,,,,,,,,,,,,,,1,,0
+Month;Year;Condition;Plot;Acmella decumbens;Ambrosia tenuifolia;Anagallis arvensis;Apium sellowanum;Physalis viscosa;Cirsium vulgare;Carex sororia;Polypogon chilensis;Ciclospermun lepthophylum;Conyza bonariensis;Cortaderia selloana;Cinnagrostis virdifavescense;Distichlis humilis;Solanum glaucophylum;Gamochaeta americana;Hordeum pusillum;Juncus acutus;Melilotus officinalis;Baccharis juncea;Physalis viscosa;Helminthotheca echioides;Plantago myosuros;Pluchea sagittalis;Pseudognaphalium gaudichaudianum;Salicornia neei;Senecio madagascariensis;Sonchus asper;Spartina densiflora;Spergularia platensis;SP1;SP2;Disturbio (%)
+March;2022;with disturb;1;;1;;;;;;;;;1;;1;;;;;;1;;;;;;;1;;;;;1;20
+March;2022;with disturb;2;;1;;;;;;;;1;1;;;;;;;;1;;;1;1;1;1;1;;1;1;1;;40
+March;2022;with disturb;3;;1;;;;;1;;;;;;1;;;;;;1;;;;;;1;;;1;;;1;50
+March;2022;with disturb;4;;;;;1;1;;;1;1;;;1;;1;1;;1;1;;;1;;1;1;;;1;;;1;100
+March;2022;with disturb;5;;;;;;;;1;;1;1;;1;;;;;1;1;;;;;;1;1;1;1;;;1;70
+March;2022;with disturb;6;1;;1;;;1;;1;;;1;;1;1;;1;;;1;1;1;;;1;1;1;1;1;;;;90
+March;2022;without disturb;1;;;;1;;;;;;;1;;;;;;;;1;;;;;;;;;1;;;;0
+March;2022;without disturb;2;;;;;;;;;;;;;1;;;;1;;1;;;;;;1;;;1;;;;0
+March;2022;without disturb;3;;;;;;;;;;;1;;;;;;;;1;;;;;;1;;;1;;;;0
+March;2022;without disturb;4;;;;;;;;;;;;;1;;;;;;;;;;;;1;;;1;;;;0
+March;2022;without disturb;5;;;;;;;;;;;1;;1;;;;1;;;;;;;;1;;;1;;;;0
+March;2022;without disturb;6;;;;;;;;;;;1;1;1;;1;;;;;;;;;;;;;1;;;;0

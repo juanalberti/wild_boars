@@ -1,13 +1,13 @@
-Month,Year,Condition,Plot,Salicornia,Spartina,Dystichlis,Limonium,hunco,phyla,Duraznillo,sp1,sp2,sp3,sp4,sp5,sp6,sp7,sp9,sp10
-March,2022,with disturb,1,1,1,1,1,,,,1,1,,,,,,,
-March,2022,with disturb,2,1,1,1,,,,,,1,1,1,1,,,,
-March,2022,with disturb,3,1,1,1,,,,,,1,1,1,1,,1,,
-March,2022,with disturb,4,1,1,,,1,1,,1,,1,1,1,,,1,1
-March,2022,with disturb,5,1,1,1,,1,,1,1,,,,1,,,,1
-March,2022,with disturb,6,1,1,1,,,,,1,,,1,,,,,1
-March,2022,without disturb,1,1,1,1,,,,,1,,,,,,,,
-March,2022,without disturb,2,1,1,1,,,,,,1,,,,,,,
-March,2022,without disturb,3,1,1,1,,1,,,,,,,,,,,
-March,2022,without disturb,4,1,1,1,,,,,,,1,,,1,,,
-March,2022,without disturb,5,1,1,1,1,1,1,,,,,1,,,,,
-March,2022,without disturb,6,1,1,1,1,1,,,,,,,,,,,1
+Month;Year;Condition;Plot;Salicornia neei;Spartina densiflora;Distichlis humilis;Limonium brasiliense;Juncus acutus;Phyla nodiflora;Solanum glauciohylum;Senecio madagascariensis;Baccharis juncea;Oxybasis glauca;Lotus tenuis;Aster squamatus;SP1;SP2;SP6;SP7
+March;2022;with disturb;1;1;1;1;1;;;;;;;;;1;1;;
+March;2022;with disturb;2;1;1;1;;;;;1;1;1;;;;1;;
+March;2022;with disturb;3;1;1;1;;;;;1;1;1;;;;1;;1
+March;2022;with disturb;4;1;1;;;1;1;;1;1;1;1;1;1;;;
+March;2022;with disturb;5;1;1;1;;1;;1;;;1;;1;1;;;
+March;2022;with disturb;6;1;1;1;;;;;;1;;;1;1;;;
+March;2022;without disturb;1;1;1;1;;;;;;;;;;1;;;
+March;2022;without disturb;2;1;1;1;;;;;;;;;;;1;;
+March;2022;without disturb;3;1;1;1;;1;;;;;;;;;;;
+March;2022;without disturb;4;1;1;1;;;;;1;;;;;;;1;
+March;2022;without disturb;5;1;1;1;1;1;1;;;1;;;;;;;
+March;2022;without disturb;6;1;1;1;1;1;;;;;;;1;;;;

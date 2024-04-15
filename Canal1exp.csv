@@ -1,11 +1,11 @@
-Month,Year,Condition,Treatment,Plot,Apium,Boton,Centaurium,Chaetotropis,Conyza,Cyperus,Duraznillo,Dystichlis,Hordeum,Isolepis,Juncus acutus,Limonium,Lolium,Lythrum,Melilotus ,Phyla nodiflora,Picris,Plantago,Poa,Polipogon,Ranunculus,Salicornia,Sonchus asper,Spartina,SP1
-November,2021,with disturb,control,1,,1,1,1,1,,1,1,1,,,1,1,,1,1,,1,1,1,,1,1,1,1
-November,2021,with disturb,control,2,1,,1,1,,,,1,,1,,,1,,,,,1,,1,1,1,,1,1
-November,2021,with disturb,control,3,,,1,,,,1,1,,1,1,,,1,,,1,,,,,1,,1,1
-November,2021,with disturb,control,4,,,1,1,,,1,1,1,,1,1,,,,1,,1,1,1,1,1,,1,
-November,2021,with disturb,control,5,,,1,,,,1,1,,1,1,1,1,1,,,,,1,1,,,,1,1
-November,2021,without disturb,exclusion,1,,,,,,1,1,1,,,1,,,,,,,1,1,,1,1,,1,1
-November,2021,without disturb,exclusion,2,,,,,,,1,1,,,,,,,,,,,,,,1,,1,1
-November,2021,without disturb,exclusion,3,,,,,,,1,1,,,1,1,,,,,,,,,,1,,1,1
-November,2021,without disturb,exclusion,4,,,1,1,,,1,,,,1,1,,,,,,,,,,1,,1,1
-November,2021,without disturb,exclusion,5,,,,,,,,1,,,1,,,,,,,,,1,,1,,1,1
+Month;Year;Condition;Treatment;Plot;Apium sellowianum;Spilanthes stolonifera;Centaurium pluchellum;Polypogon chilensis;Conyza bonariensis;Cyperus reflexus;Solanum glaucophylum;Distichlis humilis;Hordeum pusillum;Isolepis cernua;Juncus acutus;Limonium brasiliense;Lolium multiflorum;Lythrum hyssopofilium;Melilotus officinalis;Phyla nodiflora;Helminthotheca echioides;Plantago myosuros;Poa lanigera;Polipogon monospeliensis;Ranunculus bonariensis;Salicornia neei;Sonchus asper;Spartina densiflora;SP1
+November;2021;with disturb;control;1;;1;1;1;1;;1;1;1;;;1;1;;1;1;;1;1;1;;1;1;1;1
+November;2021;with disturb;control;2;1;;1;1;;;;1;;1;;;1;;;;;1;;1;1;1;;1;1
+November;2021;with disturb;control;3;;;1;;;;1;1;;1;1;;;1;;;1;;;;;1;;1;1
+November;2021;with disturb;control;4;;;1;1;;;1;1;1;;1;1;;;;1;;1;1;1;1;1;;1;
+November;2021;with disturb;control;5;;;1;;;;1;1;;1;1;1;1;1;;;;;1;1;;;;1;1
+November;2021;without disturb;exclusion;1;;;;;;1;1;1;;;1;;;;;;;1;1;;1;1;;1;1
+November;2021;without disturb;exclusion;2;;;;;;;1;1;;;;;;;;;;;;;;1;;1;1
+November;2021;without disturb;exclusion;3;;;;;;;1;1;;;1;1;;;;;;;;;;1;;1;1
+November;2021;without disturb;exclusion;4;;;1;1;;;1;;;;1;1;;;;;;;;;;1;;1;1
+November;2021;without disturb;exclusion;5;;;;;;;;1;;;1;;;;;;;;;1;;1;;1;1
